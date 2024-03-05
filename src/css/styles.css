@@ -1,0 +1,37 @@
+.navbar{
+    background-color: #ff744f !important;
+    font-family: 'Sora', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 20px !important;
+}
+.grid-encabezado{
+    background-color: #003c46;
+    color: white;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 700;
+    align-items: center;
+
+}
+.grid-lista-publicaciones{
+    border: 1px solid #807f7e00;
+    padding-top: 20px;
+    font-size: 15px;
+    font-family: sans-serif;
+    align-items: center;
+}
+.grid-lista-publicaciones:hover{
+
+    background-color: #f4eeec;
+}
+.editar-btn{
+    background: #FFE151;
+    color: white;
+    font-size: 10px;
+}
+
+.eliminar-btn{
+    background: rgb(243, 141, 141);
+    color: white;
+    font-size: 10px;
+}
